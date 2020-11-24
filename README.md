@@ -1,6 +1,7 @@
 # Memo Script For DCinside
 ## 개요
 DCinside PC버전에서 모바일에서 사용하는 메모 기능을 이용하기 위해
+
 확장 프로그램에 적용할 수 있는 스크립트
 
 ![image](https://user-images.githubusercontent.com/66747535/100087170-a77c2a00-2e91-11eb-9a92-f0b716547861.png)
